@@ -3,7 +3,7 @@
     "id": 1,
     "title": "The silmarillion",
     "description": "The Silmarillion is an account of the Elder Days, of the First Age of Tolkien's world. It is the ancient drama to which the characters in The Lord of the Rings look back, and in whose events some of them such as Elrond and Galadriel took part.",
-    "conver": "https://static.wikia.nocookie.net/lotr/images/5/50/Silmarillion.jpg"
+    "cover": "https://static.wikia.nocookie.net/lotr/images/5/50/Silmarillion.jpg"
   },
   {
     "id": 2,   
@@ -15,30 +15,30 @@
     "id": 3,
     "title": "Cracking the coding interview",
     "description": "Cracking the Coding Interview is here to help you through this process, teaching you what you need to know and enabling you to perform at your very best. I've coached and interviewed hundreds of software engineers.",
-    "conver": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCjBui45o2aQ_Z-3WjlQjqbWll1RAnWcfImK5ST0lhVg&s"
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCjBui45o2aQ_Z-3WjlQjqbWll1RAnWcfImK5ST0lhVg&s"
   },
   {
     "id": 4,
     "title": "The Little Prince",
     "description": "The Little Prince is a novella written and illustrated by French writer, and military pilot, Antoine de Saint-Exupéry.",
-    "conver": "https://images.cdn2.buscalibre.com/fit-in/360x360/1a/d0/1ad00b45cfb9ee36f629b922d55ced81.jpg"
+    "cover": "https://images.cdn2.buscalibre.com/fit-in/360x360/1a/d0/1ad00b45cfb9ee36f629b922d55ced81.jpg"
   },
   {
     "id": 5,
     "title": "La ciudad y los perros",
     "description": "The Time of the Hero is a 1963 novel by Peruvian writer and Nobel laureate Mario Vargas Llosa. It was Vargas Llosa's first novel and is set among the cadets at the Leoncio Prado Military Academy in Lima, which he attended as a teenager.",
-    "conver": "https://www.crisol.com.pe/media/catalog/product/cache/f6d2c62455a42b0d712f6c919e880845/9/7/9789707702110_cq3lt8zneamgsmue.jpg"
+    "cover": "https://www.crisol.com.pe/media/catalog/product/cache/f6d2c62455a42b0d712f6c919e880845/9/7/9789707702110_cq3lt8zneamgsmue.jpg"
   },
   {
     "id": 6,
     "title": "The pragmatic programmer",
     "description": "The Pragmatic Programmer: From Journeyman to Master is a book about computer programming and software engineering, written by Andrew Hunt and David Thomas and published in October 1999. It is used as a textbook in related university courses.",
-    "conver": "https://images.cdn2.buscalibre.com/fit-in/360x360/03/1a/031af9d7e401bb2d08911c317ecbedad.jpg"
+    "cover": "https://images.cdn2.buscalibre.com/fit-in/360x360/03/1a/031af9d7e401bb2d08911c317ecbedad.jpg"
   },
   {
     "id": 7,
     "title": "Maus",
     "description": "Maus, often published as Maus: A Survivor's Tale, is a graphic novel by American cartoonist Art Spiegelman, serialized from 1980 to 1991. It depicts Spiegelman interviewing his father about his experiences as a Polish Jew and Holocaust survivor.",
-    "conver": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL09p_eT-TwP4YJAFK6k0asqcaKravZymLDcFYt-uOAg&s"
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL09p_eT-TwP4YJAFK6k0asqcaKravZymLDcFYt-uOAg&s"
   }
 ]
